@@ -6,7 +6,7 @@ languages:
 products:
 - azure
 - azure-app-service
----
+----
 
 # Python Flask sample for Azure App Service (Linux)
 
